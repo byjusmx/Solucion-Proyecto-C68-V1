@@ -1,2 +1,2 @@
-# PRO-C68-PROJECT
-After Class Project for C68
+# PRO-C68-PROYECTO
+Solución del proyecto C68

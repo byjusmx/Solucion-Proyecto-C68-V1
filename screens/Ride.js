@@ -5,7 +5,7 @@ export default class RideScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Ride Screen</Text>
+        <Text style={styles.text}>Pantalla de viajes</Text>
       </View>
     );
   }
